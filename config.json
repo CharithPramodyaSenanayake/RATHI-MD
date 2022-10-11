@@ -1,0 +1,21 @@
+{
+  "APIs": {
+    "zenz": "https://zenzapis.xyz",
+    "apikey": "bbe8d5b68a58"
+  },
+  "options": {
+    "autoRead": false,
+    "self": false,
+    "limitCount": 20,
+    "limitGame": 20
+  },
+  "exif": {
+    "packname": "zenzapi",
+    "author": "https://zenzapi.xyz"
+  },
+  "owner": [
+    "94712448370"
+  ],
+  "timezone": "Asia/Colombo",
+  "footer": "RATHI ᴍᴅ ʙᴏᴛ"
+}
